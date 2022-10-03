@@ -14,3 +14,4 @@ To update the Program, click 'Check For Updates' on the top right corner next to
 
 [Program doesn't start, or you get an error]
 If this program doesn't start, or you get an error, download the latest version of Microsoft .NET Framework on the Official Microsoft Website. 
+ 
